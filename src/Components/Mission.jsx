@@ -93,7 +93,7 @@ export default function Mission() {
 
           <motion.div variants={headerVariants} className="lg:col-span-4 lg:pt-3">
             <p className="text-zinc-600 font-light text-base sm:text-lg leading-relaxed">
-              Every system I build—from cloud-hosted backend REST APIs to mobile applications and digital platforms—is grounded in code quality, maintainability, and measurable impact.
+              Every system I build, from cloud-hosted backend REST APIs to mobile applications and digital platforms, is grounded in code quality, maintainability, and measurable impact.
             </p>
           </motion.div>
         </motion.div>
